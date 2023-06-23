@@ -1,0 +1,55 @@
+.app {
+  font-family: sans-serif;
+  color:blue;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+  justify-content: center;
+}
+.gamecard{
+  padding: 16px;
+  background-color: gray;
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+  border: none;
+  border-radius: 10px;
+}
+.question{
+  margin: 16px auto;
+}
+.unordered{
+  margin-bottom: 25px;
+}
+
+.option{
+  margin-bottom: 5px;
+  padding: 0;
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 3px;
+  background-color: lightgray;
+  color: blue ;
+  font-weight: bold;
+  font-size: 20px;
+}
+ 
+.result{
+  color: aliceblue;
+  background-color: rgb(60, 117, 240);
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  width: 70%;
+}
+.restart{
+  background-color: red;
+  width: fit-content;
+  border: 1px solid white;
+  border-radius: 2px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: white;
+}
+ 
